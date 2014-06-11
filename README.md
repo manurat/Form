@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Form
 ==============
 
@@ -24,4 +23,3 @@ Copyright
 
 Copyright (C) 2014 Emanuele Fornasier. All Rights Reserved.
 Released under the MIT License, see LICENSE.
->>>>>>> Readme file
