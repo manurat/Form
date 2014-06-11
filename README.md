@@ -1,9 +1,4 @@
 <<<<<<< HEAD
-Form
-====
-
-Php class for form submission and validation
-=======
 class Form
 ==============
 
