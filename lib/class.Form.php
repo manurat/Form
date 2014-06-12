@@ -37,7 +37,7 @@ class Form {
 		,'errore_form_tipo_6' => 'Devi inserire e confermare l&rsquo;email.'
 		,'errore_form_tipo_7' => 'Gli indirizzi email non coincidono.'
 		,'errore_form_privacy' => 'Devi accettare l&rsquo;informativa sulla privacy.'
-	)				
+	);		
 	
 	public $responseMsg;
 		
