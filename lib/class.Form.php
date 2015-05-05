@@ -6,8 +6,8 @@
  * Stores form errors and response messages in dedicated session to share them between scripts.
  * 
  * @author     Emanuele Fornasier
- * @link       www.atriostudio.it
- * @rev.       2014/06/11
+ * @link       www.atrio.it
+ * @rev.       2015/05/05
  * 
  */
 class Form {
