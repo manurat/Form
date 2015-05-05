@@ -1,18 +1,15 @@
 <?php
 /**
-======================================================================================
-
-class Form
-------------------------------------------------------------------------------------
-Manages form submit and validation.
-Stores form errors and response messages in dedicated session to share them between scripts.
-
-@author     Emanuele Fornasier
-@link       www.atriostudio.it
-@rev.       2014/06/11
-
- =====================================================================================
-*/
+ * class Form
+ * ------------------------------------------------------------------------------------
+ * Manages form submit and validation.
+ * Stores form errors and response messages in dedicated session to share them between scripts.
+ * 
+ * @author     Emanuele Fornasier
+ * @link       www.atriostudio.it
+ * @rev.       2014/06/11
+ * 
+ */
 class Form {
 
 	private $name = 'Form';
